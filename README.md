@@ -1,4 +1,4 @@
-# Walmart Online Transaction Prediction with Random Forest
+# Walmart Online Transaction Prediction with Python and Jupyter Notebook
 
 ## Description
 This repository contains the analysis and code used to predict transactions made by Walmart customers based on online transaction data. We used a dataset that captures detailed information on user demographics, product categories, and purchase amounts.
